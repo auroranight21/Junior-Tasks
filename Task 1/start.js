@@ -8,4 +8,4 @@
  * 3. Выведите значение переменной в консоль
  */
 const myCountry = "Moldova";
-console.log(myCountry)
+console.log(myCountry);
