@@ -10,6 +10,6 @@
 const myNumber1 = 8
 const myNumber2 = 15
 
-const mult = myNumber1 * myNumber2
+const sum = myNumber1 * myNumber2
 
-console.log(mult)
+console.log(sum)
